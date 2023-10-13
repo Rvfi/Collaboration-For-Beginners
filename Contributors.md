@@ -476,3 +476,7 @@
 - Bio: Professor
 - GitHub: [Jonathan-Nyquist](https://github.com/Jonathan-Nyquist)
 
+#### Name: [Rafi I.](https://github.com/rvfi)
+- Place: Merced, USA
+- Bio: Developer
+- GitHub: [Rvfi](https://github.com/rvfi)
